@@ -1,0 +1,43 @@
+# ===========================
+# Telegram Bot
+# ===========================
+
+BOT_TOKEN=8691269367:AAEjUI4piFYDoIZdfQXZNMno_zNNW0eyG-8
+
+ADMIN_ID=8405534278
+
+# ===========================
+# MongoDB
+# ===========================
+
+MONGO_URI=mongodb+srv://lofisongakash75_db_user:Ulj5xn61SnPjGTMT@cluster0.oofwsrn.mongodb.net/?appName=Cluster0
+
+# ===========================
+# Force Join
+# ===========================
+
+FORCE_JOIN_CHANNEL=@earninbotchannel
+
+FORCE_JOIN_LINK=https://t.me/earninbotchannel
+
+# ===========================
+# Withdraw
+# ===========================
+
+MIN_WITHDRAW=100
+
+CURRENCY=₹
+
+# ===========================
+# Support
+# ===========================
+
+SUPPORT_USERNAME=@Nohelpin
+
+# ===========================
+# Railway
+# ===========================
+
+NODE_ENV=production
+
+PORT=3000
